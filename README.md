@@ -1,22 +1,5 @@
-# AI Chatbot with TensorFlow
 
-This project implements an intelligent chatbot using TensorFlow's neural network capabilities. The chatbot can understand user intents and generate appropriate responses.
-
-## Features
-
-- Intent-based response generation
-- Neural network model with LSTM layers
-- Interactive GUI with chat interface
-- Real-time training and evaluation monitoring
-- Statistics dashboard for performance metrics
-
-## Requirements
-
-- Python 3.8+
-- TensorFlow 2.12.0
-- Additional dependencies listed in requirements.txt
-
-## Setup
+## Uzstadisana
 
 1. Create a virtual environment:
    ```
@@ -34,7 +17,7 @@ This project implements an intelligent chatbot using TensorFlow's neural network
    python main.py
    ```
 
-## Project Structure
+## Projekta struktura
 
 - `data/` - Contains the training data
 - `models/` - Saved model files
@@ -46,8 +29,4 @@ This project implements an intelligent chatbot using TensorFlow's neural network
   - `gui/` - GUI implementation files
 - `main.py` - Application entry point
 
-## Usage
 
-1. Use the main chat window to interact with the bot
-2. Training and Statistics windows show model performance
-3. The model can be re-trained with new data
