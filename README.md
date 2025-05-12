@@ -19,14 +19,14 @@
 
 ## Projekta struktura
 
-- `data/` - Contains the training data
-- `models/` - Saved model files
-- `src/` - Source code
-  - `data_preparation.py` - Functions for processing the dataset
-  - `model.py` - Neural network model implementation
-  - `training.py` - Model training functionality
-  - `evaluation.py` - Model evaluation metrics
-  - `gui/` - GUI implementation files
-- `main.py` - Application entry point
+- `data/` - Satur apmācības datus
+- `models/` - Saglabātie modeļu faili
+- `src/` - Pirmkods
+  - `data_preparation.py` - Funkcijas datu kopas apstrādei
+  - `model.py` - Neironu tīkla modeļa implementācija
+  - `training.py` - Modeļa apmācības funkcionalitāte
+  - `evaluation.py` - Modeļa novērtēšanas metrikas
+  - `gui/` - Grafiskās lietotāja saskarnes implementācijas faili
+- `main.py` - Aplikācijas sākumpunkts
 
 
