@@ -1,0 +1,240 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good day",
+        "Greetings",
+        "What's up",
+        "How is it going",
+        "Sveiki",
+        "Čau",
+        "Labdien",
+        "How are you",
+        "Hi there",
+        "Morning",
+        "Evening",
+        "Afternoon",
+        "Good morning",
+        "Good evening",
+        "Good afternoon"
+      ],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there! What can I do for you?",
+        "Greetings! How may I assist you?",
+        "Hello! What brings you here today?",
+        "Hey! How can I be of service?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "I'm leaving",
+        "Have a good day",
+        "See you",
+        "Talk to you later",
+        "Until next time",
+        "Atā",
+        "Uz redzēšanos"
+      ],
+      "responses": [
+        "Goodbye! Come back anytime.",
+        "Bye! Have a nice day.",
+        "See you later! Take care.",
+        "Farewell! It was nice chatting with you.",
+        "Until next time! Stay well."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "I appreciate that",
+        "Thank you very much",
+        "Thanks a lot",
+        "Paldies",
+        "Liels paldies",
+        "I appreciate it"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Anytime!",
+        "My pleasure!",
+        "No problem at all!"
+      ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "What can you do",
+        "Who are you",
+        "What are you",
+        "What is your purpose",
+        "How do you work",
+        "Tell me about yourself",
+        "What should I know about you",
+        "Kas tu esi",
+        "Ko tu vari darīt"
+      ],
+      "responses": [
+        "I am an AI chatbot designed to assist with various queries and engage in conversation.",
+        "I'm a virtual assistant created to help answer your questions and provide information.",
+        "I'm a chatbot programmed to have conversations and provide assistance on different topics.",
+        "My purpose is to chat with you and help answer questions to the best of my abilities.",
+        "I'm here to assist you with information and engage in friendly conversation!"
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Help",
+        "I need help",
+        "Can you help me",
+        "What can you help with",
+        "Support",
+        "Assistance",
+        "Palīdzība",
+        "Vai vari palīdzēt",
+        "How does this work",
+        "What are your features"
+      ],
+      "responses": [
+        "I'd be happy to help! What do you need assistance with?",
+        "Sure, I can help. What's your question?",
+        "I'm here to assist you. What would you like help with?",
+        "How can I help you today? Just let me know what you need.",
+        "Ready to help! What's on your mind?"
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "What's the weather",
+        "How's the weather today",
+        "Is it going to rain",
+        "Weather forecast",
+        "Temperature today",
+        "Will it be sunny",
+        "Kāds šodien laiks",
+        "Is it raining",
+        "Will it be sunny today"
+      ],
+      "responses": [
+        "I don't have access to real-time weather data. You might want to check a weather app or website for that information.",
+        "I can't check the current weather, but a quick search online will give you the forecast you need.",
+        "Unfortunately, I don't have access to weather information. You could try asking a weather service or checking online.",
+        "I wish I could tell you about the weather, but I don't have that capability. A weather app would have the information you need."
+      ]
+    },
+    {
+      "tag": "joke",
+      "patterns": [
+        "Tell me a joke",
+        "Say something funny",
+        "Do you know any jokes",
+        "I want to laugh",
+        "Make me laugh",
+        "Pastāsti anekdoti"
+      ],
+      "responses": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "What do you call a fake noodle? An impasta!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "I'm reading a book about anti-gravity. It's impossible to put down!",
+        "Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them!",
+        "What did the ocean say to the beach? Nothing, it just waved!",
+        "How does a penguin build its house? Igloos it together!"
+      ]
+    },
+    {
+      "tag": "time",
+      "patterns": [
+        "What time is it",
+        "What's the time",
+        "Do you know the time",
+        "Current time",
+        "Tell me the time",
+        "Cik ir pulkstenis"
+      ],
+      "responses": [
+        "I don't have access to the current time. You could check your device's clock.",
+        "I can't tell you the exact time right now. Your computer or phone should show that.",
+        "Sorry, I don't have the ability to check the current time.",
+        "I don't have real-time access to your time zone information to provide the current time."
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "What's your name",
+        "What should I call you",
+        "Who am I talking to",
+        "What are you called",
+        "Do you have a name",
+        "Kā tevi sauc",
+        "Are you a bot",
+        "Are you human"
+      ],
+      "responses": [
+        "I'm an AI chatbot. You can call me ChatBot.",
+        "I'm ChatBot, your friendly AI assistant.",
+        "You can call me ChatBot, I'm here to help!",
+        "My name is ChatBot, how can I assist you today?",
+        "I'm known as ChatBot, your virtual conversation partner.",
+        "I'm an AI chatbot created with TensorFlow!"
+      ]
+    },
+    {
+      "tag": "feeling",
+      "patterns": [
+        "How are you feeling",
+        "Are you happy",
+        "How are you today",
+        "Are you sad",
+        "How do you feel",
+        "Kā tu jūties"
+      ],
+      "responses": [
+        "As an AI, I don't experience feelings, but I'm functioning well and ready to assist you!",
+        "I don't have emotions, but I'm operating at optimal capacity to help you.",
+        "I'm designed to be helpful rather than to have feelings, but thanks for asking!",
+        "I'm doing well in the sense that all my systems are running smoothly. How are you?",
+        "I don't experience emotions, but I'm here and ready to help you with whatever you need!"
+      ]
+    },
+    {
+      "tag": "capabilities",
+      "patterns": [
+        "What can you do",
+        "What are your features",
+        "How can you help me",
+        "What are you capable of"
+      ],
+      "responses": [
+        "I can chat, answer questions, tell jokes, and help with various topics!",
+        "I'm designed to have conversations and provide assistance with information.",
+        "I can engage in dialogue, answer questions, and help you with many topics."
+      ]
+    },
+    {
+      "tag": "fallback",
+      "patterns": [""],
+      "responses": [
+        "I'm not sure I understand. Could you rephrase that?",
+        "I don't have an answer for that yet.",
+        "I'm still learning. Could you try asking something else?",
+        "I'm not sure how to respond to that. Can you ask differently?"
+      ]
+    }
+  ]
+}
