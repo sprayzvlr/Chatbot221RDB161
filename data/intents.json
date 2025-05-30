@@ -84,7 +84,7 @@
         "Tell me about yourself",
         "What should I know about you",
         "Kas tu esi",
-        "Ko tu vari darīt"
+        "Ko tu vari darit"
       ],
       "responses": [
         "I am an AI chatbot designed to assist with various queries and engage in conversation.",
@@ -238,3 +238,5 @@
     }
   ]
 }
+
+

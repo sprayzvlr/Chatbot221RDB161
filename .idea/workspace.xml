@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fe08a1e-0edb-45f4-89bc-e64f9ab0a606" name="Changes" comment="chatbot">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/intents.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/intents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/chatbot_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/models/chatbot_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/evaluation.json" beforeDir="false" afterPath="$PROJECT_DIR$/models/evaluation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/models/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/models/model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/tokenizer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/models/tokenizer.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,21 +26,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sprayzvlr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sprayzvlr&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sprayzvlr/Chatbot221RDB161",
-    "accountId": "9f19d300-9ba4-4252-9954-c5e882e956c0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sprayzvlr/Chatbot221RDB161&quot;,
+    &quot;accountId&quot;: &quot;9f19d300-9ba4-4252-9954-c5e882e956c0&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2wydvMaqtebAnRzZ3WVKcdtdVHF" />
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
@@ -46,9 +52,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "origin"
+    "git-widget-placeholder": "origin",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -90,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747021325321</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chatbot">
+      <option name="closed" value="true" />
+      <created>1747021383407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747021383407</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
